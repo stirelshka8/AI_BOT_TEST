@@ -67,5 +67,5 @@ def msg(message):
         else:
             print(e)
 
-
-bot.infinity_polling()
+def start():
+    bot.infinity_polling()
